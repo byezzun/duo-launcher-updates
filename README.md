@@ -2,7 +2,7 @@
 
 Carlinkit 및 호환 AI Box를 위한 테스트 APK와 서명된 업데이트 정보입니다. 앱 소스 코드는 포함하지 않습니다.
 
-최신 버전: **1.5.4** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.5.4/duo-launcher-aibox-1.5.4.apk). 페이지 전환·기본 두 앱 세션 유지·앱서랍 선택·날씨 지역과 설정 구성을 개선했습니다. 제조사 메뉴/입력 가림 해결은 기기별 확인이 필요합니다.
+최신 버전: **1.5.5** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.5.5/duo-launcher-aibox-1.5.5.apk). 현재 페이지 재시도가 숨겨진 기본 앱페어까지 초기화하던 문제를 수정했습니다. 페이지 전환·앱서랍·날씨 지역 개선도 포함합니다. 제조사 메뉴/입력 가림 해결은 기기별 확인이 필요합니다.
 
 ## 설치
 
