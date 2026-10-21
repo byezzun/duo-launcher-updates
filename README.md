@@ -4,6 +4,17 @@ Carlinkit 및 호환 AI Box를 위한 테스트 APK와 서명된 업데이트 �
 
 최신 버전: **1.6.2** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.6.2/duo-launcher-aibox-1.6.2.apk). 독 즐겨찾기 길게 눌러 순서 변경·삭제, 독 고정/자동 숨기기, 독 핸들로만 페이지 이동, 키보드 입력 안정화, OTA 재시도, 앱 안 업데이트 표시를 더했습니다. 1.5.x에서 업데이트할 때 설치 권한을 허용한 뒤 DUO로 돌아와 ‘업데이트 확인’을 다시 눌러 주세요. 엠비언트 6225 Quickstep 문제는 실기기 해결 확인 전입니다.
 
+## 화면 / Screenshots
+
+| 두 앱 나란히 / Two apps side by side | 독 즐겨찾기 편집 / Editing dock favorites |
+| --- | --- |
+| ![지도와 음악 앱을 나란히 둔 DUO 홈 / DUO home with maps and music side by side](screenshots/home-pair.png) | ![즐겨찾기를 길게 눌러 순서 변경·삭제하는 편집 모드 / Edit mode after holding a dock favorite](screenshots/dock-edit.png) |
+
+![시계·날씨와 앱 하나를 함께 보여 주는 화면 / Clock and weather beside one app](screenshots/clock-weather.png)
+
+DUO의 실제 화면 코드를 PC에서 그린 이미지입니다. 차량에서는 각 영역에 실제 앱 화면이 나오며, 여기서는 예시 앱 아이콘으로 표시했습니다. 독의 ⓘ 경고 표시는 PC 환경에 시스템 권한이 없어서 보입니다.
+Rendered on a PC from DUO's real UI code. On the AI Box each pane shows the running app; sample app icons stand in here. The warning badge in the dock appears only because the PC renderer has no system permissions.
+
 ## 설치
 
 Releases의 AI Box APK를 내려받아 기존 AI Box 버전 위에 업데이트합니다. 기존 앱을 먼저 삭제하지 마세요. 처음 설치한 경우 Android 설정에서 기본 홈으로 선택합니다.
