@@ -15,6 +15,30 @@ Carlinkit 및 호환 AI Box를 위한 테스트 APK와 서명된 업데이트 �
 DUO의 실제 화면 코드를 PC에서 그린 이미지입니다. 차량에서는 각 영역에 실제 앱 화면이 나오며, 여기서는 예시 앱 아이콘으로 표시했습니다. 독의 ⓘ 경고 표시는 PC 환경에 시스템 권한이 없어서 보입니다.
 Rendered on a PC from DUO's real UI code. On the AI Box each pane shows the running app; sample app icons stand in here. The warning badge in the dock appears only because the PC renderer has no system permissions.
 
+## 사용 안내 / Tutorial
+
+DUO를 처음 열면 나오는 안내 9단계입니다. 빨간 테두리가 각 단계에서 설명하는 부분입니다. 설정에서 언제든 다시 볼 수 있습니다.
+The 9-step guide shown the first time DUO opens. The red outline marks what each step explains. You can replay it from Settings.
+
+|   |   |   |
+| --- | --- | --- |
+| **1. Choose two apps**<br>![Choose two apps](screenshots/tutorial/en-1.png) | **2. Choose where an app opens**<br>![Choose where an app opens](screenshots/tutorial/en-2.png) | **3. Center handle**<br>![Center handle](screenshots/tutorial/en-3.png) |
+| **4. App favorites**<br>![App favorites](screenshots/tutorial/en-4.png) | **5. Clear current screen**<br>![Clear current screen](screenshots/tutorial/en-5.png) | **6. Clock and settings**<br>![Clock and settings](screenshots/tutorial/en-6.png) |
+| **7. Hide and restore the dock**<br>![Hide and restore the dock](screenshots/tutorial/en-7.png) | **8. Gestures and execution status**<br>![Gestures and execution status](screenshots/tutorial/en-8.png) | **9. Information and single-app pages**<br>![Information and single-app pages](screenshots/tutorial/en-9.png) |
+
+<details>
+<summary>한국어 화면 보기 / Korean screens</summary>
+
+|   |   |   |
+| --- | --- | --- |
+| **1. 두 앱 선택**<br>![두 앱 선택](screenshots/tutorial/ko-1.png) | **2. 앱서랍에서 실행 위치 선택**<br>![앱서랍에서 실행 위치 선택](screenshots/tutorial/ko-2.png) | **3. 가운데 핸들**<br>![가운데 핸들](screenshots/tutorial/ko-3.png) |
+| **4. 앱 즐겨찾기**<br>![앱 즐겨찾기](screenshots/tutorial/ko-4.png) | **5. 현재 화면 비우기**<br>![현재 화면 비우기](screenshots/tutorial/ko-5.png) | **6. 시계와 설정**<br>![시계와 설정](screenshots/tutorial/ko-6.png) |
+| **7. 독 숨기기와 복원**<br>![독 숨기기와 복원](screenshots/tutorial/ko-7.png) | **8. 멀티터치와 실행 상태**<br>![멀티터치와 실행 상태](screenshots/tutorial/ko-8.png) | **9. 시계 화면과 단독앱 화면**<br>![시계 화면과 단독앱 화면](screenshots/tutorial/ko-9.png) |
+
+</details>
+
+위 화면과 같은 방식으로 PC에서 그린 이미지입니다. / Rendered on a PC like the screenshots above.
+
 ## 설치
 
 Releases의 AI Box APK를 내려받아 기존 AI Box 버전 위에 업데이트합니다. 기존 앱을 먼저 삭제하지 마세요. 처음 설치한 경우 Android 설정에서 기본 홈으로 선택합니다.
