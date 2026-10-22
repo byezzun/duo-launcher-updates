@@ -2,7 +2,7 @@
 
 Carlinkit 및 호환 AI Box를 위한 테스트 APK와 서명된 업데이트 정보입니다. 앱 소스 코드는 포함하지 않습니다.
 
-최신 버전: **1.6.2** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.6.2/duo-launcher-aibox-1.6.2.apk). 독 즐겨찾기 길게 눌러 순서 변경·삭제, 독 고정/자동 숨기기, 독 핸들로만 페이지 이동, 키보드 입력 안정화, OTA 재시도, 앱 안 업데이트 표시를 더했습니다. 1.5.x에서 업데이트할 때 설치 권한을 허용한 뒤 DUO로 돌아와 ‘업데이트 확인’을 다시 눌러 주세요. 엠비언트 6225 Quickstep 문제는 실기기 해결 확인 전입니다.
+최신 버전: **1.6.3** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.6.3/duo-launcher-aibox-1.6.3.apk). 1.6.1~1.6.2의 키보드 문제(앱 뒤로 숨거나 크기가 바뀜) 수정, 핸들 리모컨 다음 곡·이전 곡 전달, 앱 영역에 기본 런처(Quickstep)가 끼어들지 않도록 보완했습니다. 1.5.x에서 업데이트할 때 설치 권한을 허용한 뒤 DUO로 돌아와 ‘업데이트 확인’을 다시 눌러 주세요. 엠비언트 6225 Quickstep 문제는 실기기 해결 확인 전입니다.
 
 ## 화면 / Screenshots
 
