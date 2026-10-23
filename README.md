@@ -2,7 +2,7 @@
 
 DUO Launcher is a home launcher for Carlinkit and compatible Android AI Boxes that runs two apps side by side on the car screen. This repository holds the AI Box APK releases and the signed update feed only; it does not contain the app source code.
 
-Latest version: **1.6.4** · [Download the AI Box APK](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.6.4/duo-launcher-aibox-1.6.4.apk). Fixes in-app updates that downloaded but never finished installing on the AI Box, and includes the 1.6.3 keyboard fix and steering-wheel next/previous track. Updating from 1.6.3 or earlier still uses the installer already on your device: if it does not finish, install this APK over your current app (do not uninstall). From 1.6.4 on, later updates install inside the app. The Ambient 6225 Quickstep issue is not yet confirmed fixed on real hardware.
+Latest version: **1.6.5** · [Download the AI Box APK](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.6.5/duo-launcher-aibox-1.6.5.apk). Steering-wheel next, previous and play/pause now go to the music app before navigation apps such as TMAP or Naver Map. Includes the 1.6.4 direct OTA install and the 1.6.3 keyboard fix. If an in-app update from 1.6.3 or earlier does not finish, install this APK over your current app (do not uninstall). The Ambient 6225 Quickstep issue is not yet confirmed fixed on real hardware.
 
 ## Screenshots
 
@@ -40,7 +40,7 @@ Running apps inside DUO needs the required system privileges and matching device
 
 Carlinkit 및 호환 AI Box를 위한 APK와 서명된 업데이트 정보입니다. 앱 소스 코드는 포함하지 않습니다.
 
-최신 버전: **1.6.4** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.6.4/duo-launcher-aibox-1.6.4.apk). AI Box에서 업데이트가 다운로드 후 설치까지 끝나지 않던 문제를 고쳤고, 1.6.3의 키보드 수정·핸들 리모컨 다음 곡·이전 곡을 포함합니다. 1.6.3 이하에서는 기기에 있던 이전 설치 방식으로 진행되므로, 설치가 끝나지 않으면 이 APK를 기존 앱 위에 직접 설치해 주세요(삭제하지 마세요). 1.6.4부터는 다음 업데이트가 앱 안에서 설치됩니다. 엠비언트 6225 Quickstep 문제는 실기기 해결 확인 전입니다.
+최신 버전: **1.6.5** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.6.5/duo-launcher-aibox-1.6.5.apk). 핸들 리모컨의 다음 곡·이전 곡·재생/일시정지를 TMAP·네이버 지도 같은 내비게이션보다 음악 앱에 먼저 전달합니다. 1.6.4의 OTA 직접 설치와 1.6.3의 키보드 수정을 포함합니다. 1.6.3 이하에서 앱 안 업데이트가 끝나지 않으면 이 APK를 기존 앱 위에 직접 설치해 주세요(삭제하지 마세요). 엠비언트 6225 Quickstep 문제는 실기기 해결 확인 전입니다.
 
 위 스크린샷과 사용 안내 화면은 DUO의 실제 화면 코드를 PC에서 그린 이미지입니다. 차량에서는 각 영역에 실제 앱 화면이 나오며, 여기서는 예시 앱 아이콘으로 표시했습니다. 독의 경고 표시는 PC 환경에 시스템 권한이 없어서 보입니다. 앱 안의 사용 안내는 기기 언어에 따라 한국어로도 나옵니다.
 
