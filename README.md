@@ -2,7 +2,7 @@
 
 DUO Launcher is a home launcher for Carlinkit and compatible Android AI Boxes that runs two apps side by side on the car screen. This repository holds the AI Box APK releases and the signed update feed only; it does not contain the app source code.
 
-Latest version: **1.6.6** · [Download the AI Box APK](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.6.6/duo-launcher-aibox-1.6.6.apk). Replacing one app preserves the other pane. An unpinned dock overlays apps without resizing them; only a pinned dock reserves space. Includes keyboard-aware floating dock visibility and more precise media-key request diagnostics. Vehicle remote operation is still unverified. If an in-app update does not finish, install this APK over your current app (do not uninstall). The Ambient 6225 Quickstep issue is not yet confirmed fixed on real hardware.
+Latest version: **1.6.7** · [Download the AI Box APK](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.6.7/duo-launcher-aibox-1.6.7.apk). Fixes startup selection and repeated HOME behavior, preserves running configurations when favorites are removed, and improves display reconnection recovery and supported media commands. Real-vehicle remote operation, volume changes and OEM HOME-setting loss still need confirmation. If in-app updating fails, install this APK over your current app (do not uninstall).
 
 ## Screenshots
 
@@ -40,7 +40,7 @@ Running apps inside DUO needs the required system privileges and matching device
 
 Carlinkit 및 호환 AI Box를 위한 APK와 서명된 업데이트 정보입니다. 앱 소스 코드는 포함하지 않습니다.
 
-최신 버전: **1.6.6** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.6.6/duo-launcher-aibox-1.6.6.apk). 한쪽 앱을 바꿀 때 반대쪽 화면을 유지하고, 비고정 독은 앱 크기를 바꾸지 않고 겹쳐 표시합니다. 고정 독만 앱 아래 공간을 사용합니다. 키보드 관측 중 비고정 독 일시 숨김과 리모컨 전달 진단을 보강했습니다. 리모컨 실차 동작은 확인 전입니다. 앱 안 업데이트가 끝나지 않으면 이 APK를 기존 앱 위에 직접 설치해 주세요(삭제하지 마세요). 엠비언트 6225 Quickstep 문제는 실기기 해결 확인 전입니다.
+최신 버전: **1.6.7** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.6.7/duo-launcher-aibox-1.6.7.apk). 단독앱 시작 설정과 HOME 복귀 흐름을 수정했습니다. 즐겨찾기를 삭제해도 실행 중인 구성은 유지하고, 화면 재연결 복구와 리모컨 전달을 보완했습니다. 실차 리모컨·음량 변화·제조사 기본 홈 설정 해제 현상은 확인이 남아 있습니다. 앱 안 업데이트가 끝나지 않으면 이 APK를 기존 앱 위에 직접 설치해 주세요(삭제하지 마세요).
 
 위 스크린샷과 사용 안내 화면은 DUO의 실제 화면 코드를 PC에서 그린 이미지입니다. 차량에서는 각 영역에 실제 앱 화면이 나오며, 여기서는 예시 앱 아이콘으로 표시했습니다. 독의 경고 표시는 PC 환경에 시스템 권한이 없어서 보입니다. 앱 안의 사용 안내는 기기 언어에 따라 한국어로도 나옵니다.
 
