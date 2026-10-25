@@ -2,7 +2,7 @@
 
 DUO Launcher is a home launcher for Carlinkit and compatible Android AI Boxes that runs two apps side by side on the car screen. This repository holds the AI Box APK releases and the signed update feed only; it does not contain the app source code.
 
-Latest version: **1.6.7** · [Download the AI Box APK](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.6.7/duo-launcher-aibox-1.6.7.apk). Fixes startup selection and repeated HOME behavior, preserves running configurations when favorites are removed, and improves display reconnection recovery and supported media commands. Real-vehicle remote operation, volume changes and OEM HOME-setting loss still need confirmation. If in-app updating fails, install this APK over your current app (do not uninstall).
+Latest version: **1.6.8** · [Download the AI Box APK](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.6.8/duo-launcher-aibox-1.6.8.apk). Drawer Home preserves the current page instead of forcing the pair page. DUO settings have extra scrollable bottom space. The guide and translations are aligned. This does not modify external Android settings. Install over your existing app without uninstalling. Vehicle remote/volume behavior and OEM HOME-setting loss still need real-device confirmation.
 
 ## Screenshots
 
@@ -40,7 +40,7 @@ Running apps inside DUO needs the required system privileges and matching device
 
 Carlinkit 및 호환 AI Box를 위한 APK와 서명된 업데이트 정보입니다. 앱 소스 코드는 포함하지 않습니다.
 
-최신 버전: **1.6.7** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.6.7/duo-launcher-aibox-1.6.7.apk). 단독앱 시작 설정과 HOME 복귀 흐름을 수정했습니다. 즐겨찾기를 삭제해도 실행 중인 구성은 유지하고, 화면 재연결 복구와 리모컨 전달을 보완했습니다. 실차 리모컨·음량 변화·제조사 기본 홈 설정 해제 현상은 확인이 남아 있습니다. 앱 안 업데이트가 끝나지 않으면 이 APK를 기존 앱 위에 직접 설치해 주세요(삭제하지 마세요).
+최신 버전: **1.6.8** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.6.8/duo-launcher-aibox-1.6.8.apk). 앱서랍 집 버튼을 누르면 현재 페이지로 돌아오며 앱페어로 강제 이동하지 않습니다. DUO 설정 하단에 스크롤 여백을 추가했고 사용 안내와 번역을 맞췄습니다. 외부 Android 설정은 변경하지 않습니다. 기존 앱을 지우지 말고 그 위에 설치해 주세요. 리모컨·음량 변화·기본 홈 해제 현상은 실차 확인이 남아 있습니다.
 
 위 스크린샷과 사용 안내 화면은 DUO의 실제 화면 코드를 PC에서 그린 이미지입니다. 차량에서는 각 영역에 실제 앱 화면이 나오며, 여기서는 예시 앱 아이콘으로 표시했습니다. 독의 경고 표시는 PC 환경에 시스템 권한이 없어서 보입니다. 앱 안의 사용 안내는 기기 언어에 따라 한국어로도 나옵니다.
 
