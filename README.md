@@ -2,7 +2,7 @@
 
 DUO Launcher is a home launcher for Carlinkit and compatible Android AI Boxes that runs two apps side by side on the car screen. This repository holds the AI Box APK releases and the signed update feed only; it does not contain the app source code.
 
-Latest version: **1.7.1** · [Download the AI Box APK](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.7.1/duo-launcher-aibox-1.7.1.apk). Hold the settings gear for Android’s native recent apps; taps still open Settings and clock holds still hide the dock. Requires the accessibility connection and firmware support. Includes the recovery and navigation improvements from 1.7.0. Install over the existing app without uninstalling. Real-device behavior needs confirmation.
+Latest version: **1.7.2** · [Download the AI Box APK](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.7.2/duo-launcher-aibox-1.7.2.apk). User dismissals now take priority over automatic recovery; uncertain app status pauses recovery. Back and Restart control the current page only. Network retries are independent per pane, and backup review separates running the restored screen from restoring settings only. Hold the settings gear for Android’s native recent apps (accessibility and firmware support required). Install over the existing app without uninstalling. Real-device behavior needs confirmation.
 
 ## Screenshots
 
@@ -16,7 +16,7 @@ Rendered on a PC from DUO's real UI code. On the AI Box each pane shows the runn
 
 ## Tutorial
 
-The 9-step guide shown the first time DUO opens (updated for 1.7.1; the app-drawer launch action is on the final step). The red outline marks what each step explains. You can replay it from Settings.
+The 9-step guide shown the first time DUO opens (updated for 1.7.2; the app-drawer launch action is on the final step). The red outline marks what each step explains. You can replay it from Settings.
 
 |   |   |   |
 | --- | --- | --- |
@@ -40,7 +40,7 @@ Running apps inside DUO needs the required system privileges and matching device
 
 Carlinkit 및 호환 AI Box를 위한 APK와 서명된 업데이트 정보입니다. 앱 소스 코드는 포함하지 않습니다.
 
-최신 버전: **1.7.1** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.7.1/duo-launcher-aibox-1.7.1.apk). 톱니바퀴를 길게 누르면 Android 기본 최근 앱 화면을 엽니다. 짧게 누르면 설정, 시계 길게 누르기는 독 숨기기를 유지합니다. 접근성 연결과 기기의 최근 앱 지원이 필요합니다. 1.7.0의 복구·메뉴 개선도 포함합니다. 기존 앱 위에 설치하세요. 기기별 동작 확인은 남아 있습니다.
+최신 버전: **1.7.2** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.7.2/duo-launcher-aibox-1.7.2.apk). 사용자가 닫은 앱은 자동으로 다시 켜지 않도록 하고, 상태를 확인할 수 없을 때는 자동 복구를 보류합니다. 뒤로·다시 실행은 현재 페이지에만 적용하며, 인터넷 대기·재시도는 앱별로 분리했습니다. 백업은 실행 여부를 선택해 복원할 수 있습니다. 톱니바퀴 길게 누르기의 최근 앱 화면은 접근성 연결과 기기 지원이 필요합니다. 기존 앱 위에 설치하세요. 기기별 동작 확인은 남아 있습니다.
 
 위 스크린샷과 사용 안내 화면은 DUO의 실제 화면 코드를 PC에서 그린 이미지입니다. 차량에서는 각 영역에 실제 앱 화면이 나오며, 여기서는 예시 앱 아이콘으로 표시했습니다. 독의 경고 표시는 PC 환경에 시스템 권한이 없어서 보입니다. 앱 안의 사용 안내는 기기 언어에 따라 한국어로도 나옵니다.
 
