@@ -2,7 +2,7 @@
 
 DUO Launcher is a home launcher for Carlinkit and compatible Android AI Boxes that runs two apps side by side on the car screen. This repository holds the AI Box APK releases and the signed update feed only; it does not contain the app source code.
 
-Latest version: **1.7.4** · [Download the AI Box APK](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.7.4/duo-launcher-aibox-1.7.4.apk). The dock reserves space while visible and the hidden dock touch target is smaller. Imported favorites can be selected directly while automatic launch remains gated until review. Install over the existing app and back up settings first. Backups exported by 1.7.3 or later cannot be imported by older versions. Dock transitions and installation require real-device verification.
+Latest version: **1.7.5** · [Download the AI Box APK](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.7.5/duo-launcher-aibox-1.7.5.apk). Install now starts download, verification, and installation; Android may still ask for confirmation. The new flow applies to later updates after installing 1.7.5. Install over the existing app and back up settings first. Backups exported by 1.7.3 or later cannot be imported by older versions. Actual installation needs real-device verification.
 
 ## Screenshots
 
@@ -30,7 +30,7 @@ Rendered on a PC the same way as the screenshots above.
 
 Download the AI Box APK from Releases and install it over your existing AI Box version. Do not uninstall first. On a first install, choose DUO Launcher as the default Home app in Android settings.
 
-Version 1.4.2 has no OTA client, so install the latest APK manually. If OTA fails on an older build, the same manual install works. From 1.5.0 on, use Settings → Check for updates. Downloads and the Android install prompt always need your confirmation.
+Version 1.4.2 has no OTA client, so install the latest APK manually. If OTA fails on an older build, the same manual install works. From 1.5.0 on, use Settings → Check for updates. From 1.7.5, selecting Install now starts the download and installation; Android may still require confirmation.
 
 ## Compatibility
 
@@ -40,7 +40,7 @@ Running apps inside DUO needs the required system privileges and matching device
 
 Carlinkit 및 호환 AI Box를 위한 APK와 서명된 업데이트 정보입니다. 앱 소스 코드는 포함하지 않습니다.
 
-최신 버전: **1.7.4** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.7.4/duo-launcher-aibox-1.7.4.apk). 독이 보이면 앱 아래에 공간을 확보하고, 숨기면 앱 화면이 넓어집니다. 숨겨진 독의 터치 영역도 줄였습니다. 복원한 즐겨찾기는 직접 눌러 실행할 수 있고, 자동 실행은 확인 전까지 보류됩니다. 기존 앱 위에 설치하고 먼저 설정을 백업해 주세요. 1.7.3 이후 내보낸 백업은 그보다 오래된 버전에서 가져올 수 없습니다. 독 전환과 실제 설치는 기기별 확인이 필요합니다.
+최신 버전: **1.7.5** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.7.5/duo-launcher-aibox-1.7.5.apk). 지금 설치를 누르면 다운로드와 검증 후 설치가 이어지며 Android가 추가 확인을 요청할 수 있습니다. 이 흐름은 1.7.5 설치 후 다음 업데이트부터 적용됩니다. 기존 앱 위에 설치하고 먼저 설정을 백업해 주세요. 1.7.3 이후 내보낸 백업은 그보다 오래된 버전에서 가져올 수 없습니다. 실제 설치는 기기별 확인이 필요합니다.
 
 위 스크린샷과 사용 안내 화면은 DUO의 실제 화면 코드를 PC에서 그린 이미지입니다. 차량에서는 각 영역에 실제 앱 화면이 나오며, 여기서는 예시 앱 아이콘으로 표시했습니다. 독의 경고 표시는 PC 환경에 시스템 권한이 없어서 보입니다. 앱 안의 사용 안내는 기기 언어에 따라 한국어로도 나옵니다.
 
@@ -48,7 +48,7 @@ Carlinkit 및 호환 AI Box를 위한 APK와 서명된 업데이트 정보입니
 
 Releases의 AI Box APK를 내려받아 기존 AI Box 버전 위에 업데이트합니다. 기존 앱을 먼저 삭제하지 마세요. 처음 설치한 경우 Android 설정에서 기본 홈으로 선택합니다.
 
-1.4.2에는 OTA가 없으므로 최신 APK를 직접 설치해야 합니다. 구버전 OTA에서 오류가 나도 최신 APK를 직접 받아 기존 앱 위에 업데이트할 수 있습니다. 1.5.0부터 설정 → 업데이트 확인을 통해 이후 버전을 확인할 수 있습니다. 다운로드 및 Android 설치 확인은 사용자가 직접 선택합니다.
+1.4.2에는 OTA가 없으므로 최신 APK를 직접 설치해야 합니다. 구버전 OTA에서 오류가 나도 최신 APK를 직접 받아 기존 앱 위에 업데이트할 수 있습니다. 1.5.0부터 설정 → 업데이트 확인을 통해 이후 버전을 확인할 수 있습니다. 1.7.5부터 지금 설치를 누르면 다운로드와 설치가 이어지며, Android가 추가 확인을 요청할 수 있습니다.
 
 ### 호환성
 
