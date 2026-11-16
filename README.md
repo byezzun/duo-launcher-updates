@@ -2,7 +2,7 @@
 
 DUO Launcher is a home launcher for Carlinkit and compatible Android AI Boxes that runs two apps side by side on the car screen. This repository holds the AI Box APK releases and the signed update feed only; it does not contain the app source code.
 
-Latest version: **1.8.4** · [Download the AI Box APK](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.8.4/duo-launcher-aibox-1.8.4.apk). Clearer menu and help wording; no functional changes since 1.8.3 (exit and freeze records in the diagnostic report, equalizer work off the main thread). Not yet verified on a real device; 6225 freezes remain under investigation. On 1.7.8 or older, install over the existing app (OTA signing key changed in 1.7.9). Back up settings first.
+Latest version: **1.8.5** · [Download the AI Box APK](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.8.5/duo-launcher-aibox-1.8.5.apk). Tidier dock: muted status, clear, sound and settings grouped at the right end, warnings as a yellow dot on Settings, a large play button for stopped apps. 1.8.3 added exit and freeze records to the diagnostic report. Not yet verified on a real device; 6225 freezes remain under investigation. On 1.7.8 or older, install over the existing app (OTA signing key changed in 1.7.9). Back up settings first.
 
 ## Screenshots
 
@@ -40,7 +40,7 @@ Running apps inside DUO needs the required system privileges and matching device
 
 Carlinkit 및 호환 AI Box를 위한 APK와 서명된 업데이트 정보입니다. 앱 소스 코드는 포함하지 않습니다.
 
-최신 버전: **1.8.4** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.8.4/duo-launcher-aibox-1.8.4.apk). 메뉴와 안내 문구를 다듬었습니다(기능 변화 없음). 1.8.3에서 진단 보고서에 앱 종료·화면 멈춤 기록이 추가됐고 이퀄라이저 처리를 별도 작업으로 옮겼습니다. 실기기 확인 전 배포이며 6225 멈춤은 조사 중입니다. 1.7.8 이하는 기존 앱 위에 직접 설치하세요(1.7.9에서 OTA 서명 키 변경). 먼저 설정을 백업하세요.
+최신 버전: **1.8.5** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.8.5/duo-launcher-aibox-1.8.5.apk). 독을 정리했습니다(상태는 흐리게, 비우기·소리·설정은 오른쪽 끝에 묶음, 경고는 설정 버튼의 노란 점, 중지된 앱은 큰 재생 버튼). 1.8.3에서 진단 보고서에 앱 종료·화면 멈춤 기록이 추가됐습니다. 실기기 확인 전 배포이며 6225 멈춤은 조사 중입니다. 1.7.8 이하는 기존 앱 위에 직접 설치하세요(1.7.9에서 OTA 서명 키 변경). 먼저 설정을 백업하세요.
 
 위 스크린샷과 사용 안내 화면은 DUO의 실제 화면 코드를 PC에서 그린 이미지입니다. 차량에서는 각 영역에 실제 앱 화면이 나오며, 여기서는 예시 앱 아이콘으로 표시했습니다. 독의 경고 표시는 PC 환경에 시스템 권한이 없어서 보입니다. 앱 안의 사용 안내는 기기 언어에 따라 한국어로도 나옵니다.
 
