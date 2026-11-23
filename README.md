@@ -2,7 +2,7 @@
 
 DUO Launcher is a home launcher for Carlinkit and compatible Android AI Boxes that runs two apps side by side on the car screen. This repository holds the AI Box APK releases and the signed update feed only; it does not contain the app source code.
 
-Latest version: **1.8.8** · [Download the AI Box APK](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.8.8/duo-launcher-aibox-1.8.8.apk). Review diagnostics and send them using your email app. 6225 users experiencing a crash or freeze are invited to send a report. Real-device email integration and OTA installation remain unverified. On 1.7.8 or older, install over the existing app first; back up settings.
+Latest version: **1.8.9** · [Download the AI Box APK](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.8.9/duo-launcher-aibox-1.8.9.apk). The sound panel keeps only the equalizer and picture sync; the equalizer applies to each playing app first, and the sync line always shows its state. Report problems from Settings → App runtime status → Diagnostic details → Send diagnostics. Not yet verified on a real device. On 1.7.8 or older, install over the existing app (OTA signing key changed in 1.7.9). Back up settings first.
 
 ## Screenshots
 
@@ -40,7 +40,7 @@ Running apps inside DUO needs the required system privileges and matching device
 
 Carlinkit 및 호환 AI Box를 위한 APK와 서명된 업데이트 정보입니다. 앱 소스 코드는 포함하지 않습니다.
 
-최신 버전: **1.8.8** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.8.8/duo-launcher-aibox-1.8.8.apk). 진단 내용을 확인·수정하고 메일 앱으로 제보할 수 있습니다. 6225에서 종료나 멈춤이 발생하면 진단 제보를 부탁드립니다. 메일 연동과 OTA 설치는 실기기 미확인입니다. 1.7.8 이하는 기존 앱 위에 직접 설치하고 먼저 설정을 백업하세요.
+최신 버전: **1.8.9** · [AI Box APK 다운로드](https://github.com/byezzun/duo-launcher-updates/releases/download/v1.8.9/duo-launcher-aibox-1.8.9.apk). 소리 창을 이퀄라이저와 영상·소리 싱크만 남기고 정리했고, 이퀄라이저는 재생 앱의 오디오에 먼저 적용합니다. 문제가 있으면 설정 → 앱 실행 상태 → 진단 상세 정보 → 진단 보내기로 알려 주세요. 실기기 확인 전 배포입니다. 1.7.8 이하는 기존 앱 위에 직접 설치하세요(1.7.9에서 OTA 서명 키 변경). 먼저 설정을 백업하세요.
 
 위 스크린샷과 사용 안내 화면은 DUO의 실제 화면 코드를 PC에서 그린 이미지입니다. 차량에서는 각 영역에 실제 앱 화면이 나오며, 여기서는 예시 앱 아이콘으로 표시했습니다. 독의 경고 표시는 PC 환경에 시스템 권한이 없어서 보입니다. 앱 안의 사용 안내는 기기 언어에 따라 한국어로도 나옵니다.
 
